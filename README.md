@@ -1,2 +1,2 @@
 # Generate-faces
-This project uses GANs to generate new images of faces using Tensorflow
+Generate new images with GANs using TensorFlow
